@@ -12,7 +12,7 @@
 * 2.4 組み込み関数[問題１](CHAPTER02/2.4/Q2_4_1.py)
 * 2.5 文字列[問題２](CHAPTER02/2.5string/Q2_5_2.py)
 * 2.6 文字列とメソッド
-* 2.7 リスト([問題１](CHAPTER02/2.7list/Q2_7_1.py)[問題２](CHAPTER02/2.7list/Q2_7_2.py)
+* 2.7 リスト([問題１](CHAPTER02/2.7list/Q2_7_1.py)[問題２](CHAPTER02/2.7list/Q2_7_2.py))
 * 2.8 リストと添え字([問題１](CHAPTER02/2.8list_index/Q2_8_1.py)[問題２](CHAPTER02/2.8list_index/.py))
 * 2.9 演算子と真偽値
 * 2.10 関数の引数
