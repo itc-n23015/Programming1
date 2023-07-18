@@ -1,9 +1,8 @@
-numbers = [1, 1, 2, 3, 5, 8, 13, 21]
+my_list = [1, 1, 2, 3, 5, 8, 13]
 x = 0
-for n in numbers:
-    if n > 10:
-        break
-    x += n
-    print(x)
+for n in my_list:
+    if n % 2 != 0:
+        x += n
+print(x)
 
-    #20を出力する
+#23を出力する
